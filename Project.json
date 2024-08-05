@@ -1,0 +1,62 @@
+[
+    {
+    "id": 0,
+    "title": "Cloud Base Image Recognition System",
+    "date": "Jan 2024 - April 2024",
+    "description": "A system that can automatically identify objects in images and provide their corresponding names.",
+    "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Cloud.png",
+    "tags": [
+            "Python",
+            "Node.JS",
+            "JavaScript",
+            "Google Cloud",
+            "Vision"
+        ],
+    "category": "web app",
+    "github": "https://github.com/Raj5222/Cloud-Base-Detection",
+    "webapp": "https://raj5222.github.io/Cloud-Base-Detection/"
+    },
+    {
+    "id": 1,
+    "title": "Project Management System",
+    "date": "June 2023 - Dec 2023",
+    "description": "A system that can collect records of student projects with details and a source code that can facilitate faculty to easily supervise records and arrange them",
+    "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Project%20Management%20System.jpg",
+    "tags": [
+            "React Js",
+            "MongoDb",
+            "PHP",
+            "NodeMailer"
+        ],
+    "category": "web app",
+    "github": "https://github.com/Raj5222/Project-Management-System"
+    },
+    {
+    "id": 2,
+    "title": "Vaidyatrix Android App.",
+    "date": "Jan 2023 - Mar 2023",
+    "description": "Vaidyatrix is a SaaS Platform for BAMS Doctors that contains in-depth details about patients for better diagnosis and decreased paperwork. all the data is stored in AWS Cloud.",
+    "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Image2.png",
+    "tags": [
+            "Android Studio",
+            "Java",
+            "XML",
+            "AWS Cloud - S3"
+        ],
+    "category": "android app"
+    },
+    {
+    "id": 3,
+    "title": "Todo Web App",
+    "date": "Dec 2022",
+    "description": " A Todo Web App made with React JS, Redux, and Material UI. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the tasks and can create a new task. It has a calendar where users can see all the tasks on a particular date. It has a search bar where users can search for a particular task.",
+    "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/To-do-list.jpg",
+    "tags": [
+            "React Js",
+            "Local Storage",
+            "Node JS"
+        ],
+    "category": "web app",
+    "github": "https://github.com/Raj5222/To-Do-List"
+    }
+]
