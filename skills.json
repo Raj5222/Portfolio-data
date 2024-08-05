@@ -1,0 +1,110 @@
+[
+    {
+    "title": "Frontend",
+    "skills": [
+            {
+        "name": "React Js",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/react.svg"
+            },
+            {
+        "name": "Redux",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/redux.svg"
+            },
+            {
+        "name": "HTML",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/html.png"
+            },
+            {
+        "name": "JavaScript",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/javascript.webp"
+            },
+            {
+        "name": "CSS",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/css.webp"
+            },
+            {
+        "name": "Bootstrap",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/bootstrap.png"
+            },
+            {
+        "name": "Material UI",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/Material-UI.png"
+            }
+        ]
+    },
+    {
+    "title": "Backend",
+    "skills": [
+            {
+        "name": "Node Js",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/nodejs.svg"
+            },
+            {
+        "name": "Express Js",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/expressjs.png"
+            },
+            {
+        "name": "Graph Ql",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/graphQL.svg"
+            },
+            {
+        "name": "Python",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/python.svg"
+            },
+            {
+        "name": "MySQL",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/mysql.svg"
+            },
+            {
+        "name": "Postgresql",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/postgresql.png"
+            },
+            {
+        "name": "MongoDB",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/mongodb.svg"
+            }
+        ]
+    },
+    {
+    "title": "Android",
+    "skills": [
+            {
+        "name": "Android Studio",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/androidstd.png"
+            },
+            {
+        "name": "Java",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/java.svg"
+            },
+            {
+        "name": "XML",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/xml.png"
+            }
+        ]
+    },
+    {
+    "title": "Others",
+    "skills": [
+            {
+        "name": "Git",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/git.png"
+            },
+            {
+        "name": "Google Cloud",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/Google-cloud.svg"
+            },
+            {
+        "name": "GitHub",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/github.png"
+            },
+            {
+        "name": "DSA",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/dsa.png"
+            },
+            {
+        "name": "System Design",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/system-desing.png"
+            }
+        ]
+    }
+]
