@@ -1,0 +1,20 @@
+[
+    {
+    "id": 0,
+    "img": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/spu.png",
+    "school": "Sankalchand Patel College of Engineering, Visnagar",
+    "date": "June 2021 - May 2024",
+    "grade": "8.14 CGPA",
+    "desc": "I am Completed a Bachelor's degree in Information Technology at Sankalchand Patel College of Engineering, Visnagar. I Achived 8.14 CGPA. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks.",
+    "degree": "Bachelor of Technology - B.Tech, Information Technology"
+  },
+  {
+    "id": 1,
+    "img": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/gtu.png",
+    "school": "Gujarat Technological University (GTU)",
+    "date": "May 2018 - Apr 2021",
+    "grade": "7.59 CGPA",
+    "desc": "I completed my Diploma Engineering education at Gujarat Technological University (GTU), where I studied in Computer Engineering.",
+    "degree": "Diploma, Computer Engineering"
+  }
+]
