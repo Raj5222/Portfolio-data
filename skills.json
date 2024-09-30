@@ -73,16 +73,16 @@
     "title": "Android",
     "skills": [
             {
-        "name": "Android Studio",
-        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/androidstd.png"
+        "name": "XML",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/xml.png"
             },
             {
         "name": "Java",
         "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/java.svg"
             },
             {
-        "name": "XML",
-        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/xml.png"
+        "name": "Android Studio",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/androidstd.png"
             }
         ]
     },
