@@ -50,18 +50,18 @@
             {
         "name": "TypeScript",
         "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/Typescript.svg"
-            },        
+            },
             {
-        "name": "TypeORM",
-        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/typeorm.png"
+        "name": "Python",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/python.svg"
             },
             {
         "name": "Graph Ql",
         "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/graphQL.svg"
             },
             {
-        "name": "Python",
-        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/python.svg"
+        "name": "TypeORM",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/typeorm.png"
             },
             {
         "name": "MySQL",
