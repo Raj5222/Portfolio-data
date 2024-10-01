@@ -48,15 +48,15 @@
         "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/nodejs.svg"
             },
             {
-        "name": "Express",
-        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/expressjs.png"
-            },
-            {
         "name": "TypeScript",
         "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/Typescript.svg"
             },
             {
-        "name": "Graph Ql",
+        "name": "Express",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/expressjs.png"
+            },
+            {
+        "name": "GraphQL",
         "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/graphQL.svg"
             },
             {
@@ -64,12 +64,12 @@
         "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/typeorm.png"
             },
             {
-        "name": "MySQL",
-        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/mysql.svg"
+        "name": "PostgreSQL",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/postgresql.png"
             },
             {
-        "name": "Postgresql",
-        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/postgresql.png"
+        "name": "MySQL",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/mysql.svg"
             },
             {
         "name": "MongoDB",
