@@ -29,6 +29,10 @@
             {
         "name": "Material UI",
         "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/Material-UI.png"
+            },
+            {
+        "name": "HandleBars",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/handlebars.png"
             }
         ]
     },
@@ -46,6 +50,10 @@
             {
         "name": "TypeScript",
         "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/Typescript.svg"
+            },        
+            {
+        "name": "TypeORM",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/typeorm.png"
             },
             {
         "name": "Graph Ql",
