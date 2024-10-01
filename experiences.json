@@ -2,10 +2,10 @@
     {
         "id": 0,
     "img": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/terotem.png",
-    "role": "Backend Engineer Intern",
+    "role": "Backend Developer Intern",
     "company": "TeroTAM Techlabs Pvt. Ltd.",
     "date": "Aug 2024 - Present",
     "desc": "Working on the backend of the web application using Node.js, Express.js and MongoDB.",
-    "skills": ["NodeJs", "ExpressJs", "JavaScript", "MongoDB"]
+    "skills": ["NodeJs", "ExpressJs", "JavaScript", "TypeScript", "TypeORM", "HandleBars", "MongoDB", "PostgreSQL"]
     }
 ]
