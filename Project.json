@@ -18,6 +18,27 @@
     },
     {
     "id": 1,
+    "title": "Live Chatting Web-App",
+    "date": "October 2024 - November 2024",
+    "description": "This chat app can be enhanced with 
+        User List Inside Rooms: Display the list of users currently in each room.
+        Room List Before Joining: Show a list of all active rooms before joining.
+        Kick User: Ability to remove users from a room.
+        Notifications: Notify users when someone joins a room.",
+    "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/chat-App.png",
+    "tags": [
+            "Node.JS",
+            "React JS",
+            "JavaScript",
+            "Socket IO",
+            "Firebase"
+        ],
+    "category": "web app",
+    "github": "https://github.com/Raj5222/Live-Chat-App",
+    "webapp": "https://raj6784.github.io/"
+    },
+    {
+    "id": 1,
     "title": "Project Management System",
     "date": "June 2023 - Dec 2023",
     "description": "A system that can collect records of student projects with details and a source code that can facilitate faculty to easily supervise records and arrange them",
@@ -32,7 +53,7 @@
     "github": "https://github.com/Raj5222/Project-Management-System"
     },
     {
-    "id": 2,
+    "id": 3,
     "title": "Vaidyatrix Android App.",
     "date": "Jan 2023 - Mar 2023",
     "description": "Vaidyatrix is a SaaS Platform for BAMS Doctors that contains in-depth details about patients for better diagnosis and decreased paperwork. all the data is stored in AWS Cloud.",
@@ -46,7 +67,7 @@
     "category": "android app"
     },
     {
-    "id": 3,
+    "id": 4,
     "title": "Todo Web App",
     "date": "Dec 2022",
     "description": " A Todo Web App made with React JS, Redux, and Material UI. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the tasks and can create a new task. It has a calendar where users can see all the tasks on a particular date. It has a search bar where users can search for a particular task.",
