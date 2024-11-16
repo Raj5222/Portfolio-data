@@ -20,7 +20,7 @@
     "id": 1,
     "title": "Live Chatting Web-App",
     "date": "October 2024 - November 2024",
-    "description": "This chat app can be enhanced with User List Inside Rooms: Display the list of users currently in each room. Room List Before Joining: Show a list of all active rooms before joining. Kick User: Ability to remove users from a room. Notifications: Notify users when someone joins a room. <strong>(ID: demo@gmail.com, password :1234)</strong>",
+    "description": "This chat app can be enhanced with User List Inside Rooms: Display the list of users currently in each room. Room List Before Joining: Show a list of all active rooms before joining. Kick User: Ability to remove users from a room. Notifications: Notify users when someone joins a room. <strong>(Email: demo@gmail.com, password :1234)</strong>",
     "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/chat-App.png",
     "tags": [
             "Node.JS",
