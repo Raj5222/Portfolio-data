@@ -98,6 +98,14 @@
     "title": "Others",
     "skills": [
             {
+        "name": "DSA",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/dsa.png"
+            },
+            {
+        "name": "System Design",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/system-desing.png"
+            },
+            {
         "name": "Google Cloud",
         "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/Google-cloud.svg"
             },
@@ -106,20 +114,16 @@
         "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/Firebase.png"
             },
             {
+        "name": "Docker",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/Docker.png"
+            },
+            {
         "name": "Git",
         "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/git.png"
             },
             {
         "name": "GitHub",
         "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/github.png"
-            },
-            {
-        "name": "DSA",
-        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/dsa.png"
-            },
-            {
-        "name": "System Design",
-        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/system-desing.png"
             }
         ]
     }
