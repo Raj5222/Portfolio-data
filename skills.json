@@ -98,12 +98,16 @@
     "title": "Others",
     "skills": [
             {
-        "name": "Git",
-        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/git.png"
-            },
-            {
         "name": "Google Cloud",
         "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/Google-cloud.svg"
+            },
+            {
+        "name": "Firebase",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/Firebase.png"
+            },
+            {
+        "name": "Git",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/git.png"
             },
             {
         "name": "GitHub",
