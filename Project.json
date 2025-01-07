@@ -1,6 +1,6 @@
 [
     {
-    "id": 0,
+    "id": 3,
     "title": "Cloud Base Image Recognition System",
     "date": "Jan 2024 - April 2024",
     "description": "A system that can automatically identify objects in images and provide their corresponding names.",
@@ -12,12 +12,12 @@
             "Google Cloud",
             "Vision"
         ],
-    "category": "web app",
+    "category": "machine learning",
     "github": "https://github.com/Raj5222/Cloud-Base-Detection",
     "webapp": "https://raj5222.github.io/Cloud-Base-Detection/"
     },
     {
-    "id": 1,
+    "id": 4,
     "title": "Live Chatting Web-App",
     "date": "October 2024 - November 2024",
     "description": "This chat app is built with many features. You can see the list of users currently present in each room. You can also see the list of all active rooms before joining. Also, the admin has the ability to remove users from an existing room. You also get a notification when someone joins an existing room. 👉 E-mail: demo@gmail.com, Password: 1234",
@@ -51,7 +51,7 @@
     "github": "https://github.com/Raj5222/Project-Management-System"
     },
     {
-    "id": 3,
+    "id": 1,
     "title": "Vaidyatrix Android App.",
     "date": "Jan 2023 - Mar 2023",
     "description": "Vaidyatrix is a SaaS Platform for BAMS Doctors that contains in-depth details about patients for better diagnosis and decreased paperwork. all the data is stored in AWS Cloud.",
@@ -65,7 +65,7 @@
     "category": "android app"
     },
     {
-    "id": 4,
+    "id": 0,
     "title": "Todo Web App",
     "date": "Dec 2022",
     "description": " A Todo Web App made with React JS, Redux, and Material UI. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the tasks and can create a new task. It has a calendar where users can see all the tasks on a particular date. It has a search bar where users can search for a particular task.",
