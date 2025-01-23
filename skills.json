@@ -110,14 +110,6 @@
             "image":"https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/system-desing.png"
          },
          {
-            "name":"Google Cloud",
-            "image":"https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/Google-cloud.svg"
-         },
-         {
-            "name":"Firebase",
-            "image":"https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/Firebase.png"
-         },
-         {
             "name":"Docker",
             "image":"https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/Docker.png"
          },
@@ -128,6 +120,14 @@
          {
             "name":"GitHub",
             "image":"https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/github.png"
+         },
+         {
+            "name":"Google Cloud",
+            "image":"https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/Google-cloud.svg"
+         },
+         {
+            "name":"Firebase",
+            "image":"https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/Firebase.png"
          }
       ]
    }
