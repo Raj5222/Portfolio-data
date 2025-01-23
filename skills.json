@@ -124,6 +124,9 @@
             {
         "name": "GitHub",
         "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/github.png"
+            },{
+        "name": "Linux",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/Linux-logo.png"
             }
         ]
     }
