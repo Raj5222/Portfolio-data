@@ -65,17 +65,17 @@
     },
     {
     "id": 0,
-    "title": "Checklist",
-    "date": "Dec 2024",
-    "description": " A Todo Web App made with React JS, Redux. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the tasks and can create a new task. It has a calendar where users can see all the tasks on a particular date.",
+    "title": "TaskFlow: Smart Task Management & Visualization",
+    "date": "March 2025",
+    "description": "TaskFlow is a modern, visually-driven task management web app designed to help teams and individuals streamline their workflow. By integrating Firebase Firestore for real-time task tracking and React D3 Tree for intuitive graph-based visualization, TaskFlow provides a seamless and interactive task management experience.",
     "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/checklist1.png",
     "tags": [
             "React Js",
             "Local Storage",
-            "Node JS",
             "Firebase"
         ],
     "category": "web app",
-    "github": "https://github.com/Raj5222/checklist-web-app"
+    "github": "https://github.com/Raj5222/checklist-web-app",
+    "webapp": "https://checklist-todo.vercel.app/"
     }
 ]
