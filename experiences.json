@@ -1,11 +1,38 @@
 [
-    {
-        "id": 0,
+  {
+    "id": 0,
+    "img": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/terotem.png",
+    "role": "Jr. Backend Developer",
+    "company": "TeroTAM Techlabs Pvt. Ltd.",
+    "date": "Feb 2025 – Present",
+    "desc": "Continuing backend development with a focus on building scalable and efficient APIs using Node.js, Express.js, and TypeScript. Enhanced database operations with TypeORM, working with both MongoDB and PostgreSQL. Utilized Redis for caching to improve application performance.",
+    "skills": [
+      "Node.js",
+      "Express.js",
+      "JavaScript",
+      "TypeScript",
+      "TypeORM",
+      "MongoDB",
+      "PostgreSQL",
+      "Redis"
+    ]
+  },
+  {
+    "id": 1,
     "img": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/terotem.png",
     "role": "Backend Developer Intern",
     "company": "TeroTAM Techlabs Pvt. Ltd.",
-    "date": "Aug 2024 - Present",
-    "desc": "Working on the backend of the web application using Node.js, Express.js and MongoDB.",
-    "skills": ["NodeJs", "ExpressJs", "JavaScript", "TypeScript", "TypeORM", "HandleBars", "MongoDB", "PostgreSQL"]
-    }
+    "date": "Aug 2024 – Feb 2025",
+    "desc": "Worked on backend development using Node.js, Express.js, and TypeScript. Handled database management with TypeORM, integrating both MongoDB and PostgreSQL for data storage. Contributed to server-side rendering using Handlebars for dynamic web pages.",
+    "skills": [
+      "Node.js",
+      "Express.js",
+      "JavaScript",
+      "TypeScript",
+      "TypeORM",
+      "Handlebars",
+      "MongoDB",
+      "PostgreSQL"
+    ]
+  }
 ]
