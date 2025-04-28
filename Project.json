@@ -5,6 +5,7 @@
     "date": "October 2024 - November 2024",
     "description": "This chat app is built with many features. You can see the list of users currently present in each room. You can also see the list of all active rooms before joining. Also, the admin has the ability to remove users from an existing room. You also get a notification when someone joins an existing room. 👉 E-mail: demo@gmail.com, Password: 1234",
     "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/chat-App.png",
+    "images":["https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/chat_app_1.png", "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/chat_app_2.png","https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/chat_app_3.png"],
     "tags": [
       "Node.JS",
       "TypeScript",
@@ -24,6 +25,7 @@
     "date": "Jan 2024 - April 2024",
     "description": "A system that can automatically identify objects in images and provide their corresponding names.",
     "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Cloud.png",
+    "images": ["https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Cloud.png"],
     "tags": ["Python", "Node.JS", "JavaScript", "Google Cloud", "Vision"],
     "category": "artificial intelligence",
     "github": "https://github.com/Raj5222/Cloud-Base-Detection",
@@ -35,17 +37,19 @@
     "date": "March 2025",
     "description": "TaskFlow is a modern, visually-driven task management web app designed to help teams and individuals streamline their workflow. By integrating Firebase Firestore for real-time task tracking and React D3 Tree for intuitive graph-based visualization, TaskFlow provides a seamless and interactive task management experience.",
     "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/checklist1.png",
+    "images": ["https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/checklist1.png","https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/checklist_to_do_1.png","https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/checklist_to_do_2.png","https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/checklist_to_do_3.png","https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/checklist2.png","https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/checklist_to_do_4.png","https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/checklist_to_do_5.png"],
     "tags": ["React Js", "Local Storage", "Firebase"],
     "category": "web app",
     "github": "https://github.com/Raj5222/checklist-web-app",
     "webapp": "https://checklist-todo.vercel.app/"
   },
   {
-    "id": 1,
+    "sid": 1,
     "title": "Project Management System",
     "date": "June 2023 - Dec 2023",
     "description": "A system that can collect records of student projects with details and a source code that can facilitate faculty to easily supervise records and arrange them",
     "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Project%20Management%20System.jpg",
+    "images": ["https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Project%20Management%20System.jpg"],
     "tags": ["React Js", "MongoDb", "PHP", "NodeMailer"],
     "category": "web app",
     "github": "https://github.com/Raj5222/Project-Management-System"
@@ -56,6 +60,7 @@
     "date": "Jan 2023 - Mar 2023",
     "description": "Vaidyatrix is a SaaS Platform for BAMS Doctors that contains in-depth details about patients for better diagnosis and decreased paperwork. all the data is stored in AWS Cloud.",
     "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Image2.png",
+    "images": ["https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Image2.png"],
     "tags": ["Android Studio", "Java", "XML", "AWS Cloud - S3"],
     "category": "android app"
   }
