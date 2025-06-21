@@ -1,20 +1,20 @@
 [
-    {
+  {
     "id": 0,
     "img": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/spu.png",
     "school": "Sankalchand Patel University",
-    "date": "June 2021 - May 2024",
+    "date": "June 2021 – May 2024",
     "grade": "8.14 CGPA",
-    "desc": "I am Completed a Bachelor's degree in Information Technology at Sankalchand Patel University. I Achived 8.14 CGPA. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks.",
-    "degree": "Bachelor of Technology - B.Tech, Information Technology"
+    "desc": "Completed a Bachelor of Technology (B.Tech) in Information Technology at Sankalchand Patel University with an overall CGPA of 8.14. Gained strong foundational knowledge in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks.",
+    "degree": "Bachelor of Technology (B.Tech) in Information Technology"
   },
   {
     "id": 1,
     "img": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/gtu.png",
     "school": "Gujarat Technological University (GTU)",
-    "date": "May 2018 - Apr 2021",
+    "date": "May 2018 – April 2021",
     "grade": "7.59 CGPA",
-    "desc": "I completed my Diploma Engineering education at Gujarat Technological University (GTU) where I studied in Computer Engineering.",
-    "degree": "Diploma Engineering In Computer Engineering"
+    "desc": "Completed a Diploma in Computer Engineering from Gujarat Technological University (GTU) with a CGPA of 7.59. Focused on core subjects such as Programming, Digital Logic Design, Computer Architecture, and Web Development.",
+    "degree": "Diploma in Computer Engineering"
   }
 ]
