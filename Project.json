@@ -1,18 +1,46 @@
 [
   {
+    "id": 5,
+    "title": "Hybrid Expense Tracker Web App",
+    "date": "May 2025 - June 2025",
+    "description": "Hybrid Expense Tracker Web App is a feature-rich, privacy-focused financial management platform that empowers users to take full control of their personal and household finances. It supports real-time synchronization across devices and ensures data privacy through end-to-end encryption.\n\nThe app allows seamless tracking of expenses, savings across multiple accounts, loans, and customizable budgets. Users can visualize financial health through interactive dashboards and analytical charts.\n\nData is encrypted at rest and in transit, with import/export options available in both encrypted and plain formats. Additional features include base currency configuration and downloadable financial reports, making it ideal for global users seeking clarity, security, and control in one application.",
+    "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/chat-App.png",
+    "images": [
+      "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/chat_app_1.png",
+      "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/chat_app_2.png",
+      "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/chat_app_3.png"
+    ],
+    "tags": [
+      "Node.JS",
+      "TypeScript",
+      "React JS",
+      "Vite.JS",
+      "JavaScript",
+      "Google Auth",
+      "Firebase"
+    ],
+    "category": "web app",
+    "github": "https://github.com/Raj5222/Hybrid-Expense-Tracker-Web-App",
+    "webapp": "https://moneyvue.vercel.app/"
+  },
+  {
     "id": 4,
     "title": "Live Chatting Web-App",
     "date": "October 2024 - November 2024",
-    "description": "This chat app is built with many features. You can see the list of users currently present in each room. You can also see the list of all active rooms before joining. Also, the admin has the ability to remove users from an existing room. You also get a notification when someone joins an existing room. 👉 E-mail: demo@gmail.com, Password: 1234",
+    "description": "A real-time chat application that enables seamless communication between users in multiple chat rooms. Users can view available rooms, see active members, receive join/leave notifications, and engage in instant messaging.\n\nAdmins can manage users within rooms, including the ability to remove participants. The app ensures a smooth chatting experience with live socket communication and dynamic room updates.\n\n👉 Demo Login — Email: demo@gmail.com | Password: 1234",
     "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/chat-App.png",
-    "images":["https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/chat_app_1.png", "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/chat_app_2.png","https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/chat_app_3.png"],
+    "images": [
+      "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/chat_app_1.png",
+      "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/chat_app_2.png",
+      "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/chat_app_3.png"
+    ],
     "tags": [
       "Node.JS",
       "TypeScript",
       "TypeORM",
       "React JS",
       "JavaScript",
-      "Socket IO",
+      "Socket.IO",
       "Firebase"
     ],
     "category": "web app",
@@ -21,11 +49,13 @@
   },
   {
     "id": 3,
-    "title": "Cloud Base Image Recognition System",
+    "title": "Cloud-Based Image Recognition System",
     "date": "Jan 2024 - April 2024",
-    "description": "A system that can automatically identify objects in images and provide their corresponding names.",
+    "description": "A cloud-powered image recognition system that automatically detects and labels objects within images using machine learning APIs. By leveraging Google Cloud Vision, the system provides fast and accurate identification of various elements from uploaded photos.\n\nIdeal for educational, research, or real-world application needs that involve object detection, classification, and labeling.",
     "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Cloud.png",
-    "images": ["https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Cloud.png"],
+    "images": [
+      "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Cloud.png"
+    ],
     "tags": ["Python", "Node.JS", "JavaScript", "Google Cloud", "Vision"],
     "category": "artificial intelligence",
     "github": "https://github.com/Raj5222/Cloud-Base-Detection",
@@ -35,33 +65,45 @@
     "id": 2,
     "title": "TaskFlow: Smart Task Management & Visualization",
     "date": "March 2025",
-    "description": "TaskFlow is a modern, visually-driven task management web app designed to help teams and individuals streamline their workflow. By integrating Firebase Firestore for real-time task tracking and React D3 Tree for intuitive graph-based visualization, TaskFlow provides a seamless and interactive task management experience.",
+    "description": "TaskFlow is a visually-driven task management web application designed to help individuals and teams organize, track, and visualize tasks efficiently. It integrates Firebase Firestore for real-time task updates and uses React D3 Tree for graph-based visual task hierarchy representation.\n\nUsers can seamlessly manage task dependencies, priorities, and progress in an intuitive interface that blends checklist simplicity with visual clarity.",
     "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/checklist1.png",
-    "images": ["https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/checklist1.png","https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/checklist_to_do_1.png","https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/checklist_to_do_2.png","https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/checklist_to_do_3.png","https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/checklist2.png","https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/checklist_to_do_4.png","https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/checklist_to_do_5.png"],
-    "tags": ["React Js", "Local Storage", "Firebase"],
+    "images": [
+      "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/checklist1.png",
+      "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/checklist_to_do_1.png",
+      "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/checklist_to_do_2.png",
+      "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/checklist_to_do_3.png",
+      "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/checklist2.png",
+      "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/checklist_to_do_4.png",
+      "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/checklist_to_do_5.png"
+    ],
+    "tags": ["React JS", "Local Storage", "Firebase"],
     "category": "web app",
     "github": "https://github.com/Raj5222/checklist-web-app",
     "webapp": "https://checklist-todo.vercel.app/"
   },
   {
-    "sid": 1,
+    "id": 1,
     "title": "Project Management System",
     "date": "June 2023 - Dec 2023",
-    "description": "A system that can collect records of student projects with details and a source code that can facilitate faculty to easily supervise records and arrange them",
+    "description": "A centralized system for managing student project records, enabling faculty to efficiently supervise, organize, and maintain detailed project documentation including source code submissions and evaluation tracking.\n\nThe system provides streamlined workflows for project assignment, review, and categorization, built with a focus on academic supervision and collaboration.",
     "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Project%20Management%20System.jpg",
-    "images": ["https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Project%20Management%20System.jpg"],
-    "tags": ["React Js", "MongoDb", "PHP", "NodeMailer"],
+    "images": [
+      "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Project%20Management%20System.jpg"
+    ],
+    "tags": ["React JS", "MongoDB", "PHP", "NodeMailer"],
     "category": "web app",
     "github": "https://github.com/Raj5222/Project-Management-System"
   },
   {
     "id": 0,
-    "title": "Vaidyatrix Android App.",
+    "title": "Vaidyatrix Android App",
     "date": "Jan 2023 - Mar 2023",
-    "description": "Vaidyatrix is a SaaS Platform for BAMS Doctors that contains in-depth details about patients for better diagnosis and decreased paperwork. all the data is stored in AWS Cloud.",
+    "description": "Vaidyatrix is a SaaS-based Android application tailored for BAMS doctors to manage patient records digitally, improve diagnosis accuracy, and reduce paperwork. The app securely stores all medical records and reports on AWS Cloud (S3), ensuring availability and data integrity.\n\nDesigned with healthcare workflow in mind, it simplifies clinical record-keeping and enhances the patient care experience.",
     "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Image2.png",
-    "images": ["https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Image2.png"],
-    "tags": ["Android Studio", "Java", "XML", "AWS Cloud - S3"],
+    "images": [
+      "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Image2.png"
+    ],
+    "tags": ["Android Studio", "Java", "XML", "AWS S3"],
     "category": "android app"
   }
 ]
