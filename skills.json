@@ -132,6 +132,10 @@
          {
             "name":"Firebase",
             "image":"https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/Firebase.png"
+         },
+         {
+            "name":"Socket Io",
+            "image":"https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/Socket-io.svg"
          }
       ]
    }
