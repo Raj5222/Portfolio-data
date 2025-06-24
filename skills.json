@@ -64,6 +64,10 @@
             "image":"https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/typeorm.png"
          },
          {
+            "name":"Redis",
+            "image":"https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/Redis.png"
+         },
+         {
             "name":"PostgreSQL",
             "image":"https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/postgresql.png"
          },
