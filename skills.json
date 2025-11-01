@@ -72,6 +72,10 @@
             "image":"https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/Redis.png"
          },
          {
+            "name":"BullMQ",
+            "image":"https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/BullMQ.png"
+         },
+         {
             "name":"PostgreSQL",
             "image":"https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/postgresql.png"
          },
