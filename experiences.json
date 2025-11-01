@@ -2,10 +2,10 @@
   {
     "id": 0,
     "img": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/terotem.png",
-    "role": "Junior Backend Developer",
+    "role": "Backend Developer",
     "company": "TeroTAM Techlabs Pvt. Ltd.",
     "date": "Feb 2025 – Present",
-    "desc": "Currently working as a Junior Backend Developer, focusing on building scalable, high-performance APIs using Node.js, Express.js, and TypeScript. Improved data handling through TypeORM while integrating both MongoDB and PostgreSQL. Implemented Redis caching to optimize application speed and reduce load times.",
+    "desc": "Currently working as a Backend Developer, focusing on building scalable, high-performance APIs using Node.js, Express.js, and TypeScript. Improved data handling through TypeORM while integrating both MongoDB and PostgreSQL. Implemented Redis caching to optimize application speed and reduce load times.",
     "skills": [
       "Node.js",
       "Express.js",
@@ -14,7 +14,8 @@
       "TypeORM",
       "MongoDB",
       "PostgreSQL",
-      "Redis"
+      "Redis",
+      "BullMQ"
     ]
   },
   {
