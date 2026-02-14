@@ -4,7 +4,7 @@
     "img": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/terotem.png",
     "role": "Backend Developer",
     "company": "TeroTAM Techlabs Pvt. Ltd.",
-    "date": "Feb 2025 – Present",
+    "date": "Aug 2024 – Present",
     "desc": "Currently working as a Backend Developer, focusing on building scalable, high-performance APIs using Node.js, Express.js, and TypeScript. Improved data handling through TypeORM while integrating both MongoDB and PostgreSQL. Implemented Redis caching to optimize application speed and reduce load times.",
     "skills": [
       "Node.js",
@@ -16,24 +16,40 @@
       "PostgreSQL",
       "Redis",
       "BullMQ"
-    ]
-  },
-  {
-    "id": 1,
-    "img": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/terotem.png",
-    "role": "Backend Developer Intern",
-    "company": "TeroTAM Techlabs Pvt. Ltd.",
-    "date": "Aug 2024 – Feb 2025",
-    "desc": "Worked as a Backend Developer Intern, contributing to API development and server-side logic using Node.js, Express.js, and TypeScript. Managed databases through TypeORM with MongoDB and PostgreSQL. Also contributed to server-side rendering of dynamic content using Handlebars.",
-    "skills": [
-      "Node.js",
-      "Express.js",
-      "JavaScript",
-      "TypeScript",
-      "TypeORM",
-      "Handlebars",
-      "MongoDB",
-      "PostgreSQL"
+    ],
+    "doc": "",
+    "roles": [
+      {
+        "role": "Backend Developer",
+        "date": "Feb 2025 – Present",
+        "desc": "Currently working as a Backend Developer, focusing on building scalable, high-performance APIs using Node.js, Express.js, and TypeScript. Improved data handling through TypeORM while integrating both MongoDB and PostgreSQL. Implemented Redis caching to optimize application speed and reduce load times.",
+        "skills": [
+          "Node.js",
+          "Express.js",
+          "JavaScript",
+          "TypeScript",
+          "TypeORM",
+          "MongoDB",
+          "PostgreSQL",
+          "Redis",
+          "BullMQ"
+        ]
+      },
+      {
+        "role": "Backend Developer Intern",
+        "date": "Aug 2024 – Feb 2025",
+        "desc": "Worked as a Backend Developer Intern, contributing to API development and server-side logic using Node.js, Express.js, and TypeScript. Managed databases through TypeORM with MongoDB and PostgreSQL. Also contributed to server-side rendering of dynamic content using Handlebars.",
+        "skills": [
+          "Node.js",
+          "Express.js",
+          "JavaScript",
+          "TypeScript",
+          "TypeORM",
+          "Handlebars",
+          "MongoDB",
+          "PostgreSQL"
+        ]
+      }
     ]
   }
 ]
