@@ -20,9 +20,9 @@
     "doc": "",
     "roles": [
       {
-        "role": "Backend Developer",
+        "role": "Software Developer",
         "date": "Feb 2025 – Present",
-        "desc": "Currently working as a Backend Developer, focusing on building scalable, high-performance APIs using Node.js, Express.js, and TypeScript. Improved data handling through TypeORM while integrating both MongoDB and PostgreSQL. Implemented Redis caching to optimize application speed and reduce load times.",
+        "desc": "Currently working as a Software Developer, focusing on building scalable, high-performance APIs using Node.js, Express.js, and TypeScript. Improved data handling through TypeORM while integrating both MongoDB and PostgreSQL. Implemented Redis caching to optimize application speed and reduce load times.",
         "skills": [
           "Node.js",
           "Express.js",
