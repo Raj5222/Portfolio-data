@@ -1,21 +1,21 @@
 {
   "name": "Raj Sathvara",
-  "title": "Software Developer & Backend Engineer",
+  "title": "Full Stack Engineer & Freelance Software Consultant",
   "roles": [
     "Software Developer",
-    "Full Stack Developer",
-    "Backend Engineer",
-    "Distributed Systems Architect",
+    "Full Stack Engineer",
+    "Backend & Cloud Architect",
+    "Freelance Software Consultant",
     "Node.js & TypeScript Specialist"
   ],
-  "tagline": "Available for Full Stack & Backend Roles",
-  "description": "A results-driven Software Developer with deep expertise in Node.js, TypeScript, PostgreSQL, Redis, BullMQ, and cloud infrastructure. Passionate about architecting high-throughput distributed systems, optimizing database query latency, and building scalable production applications.",
+  "tagline": "Available for Full-Time Roles & Freelance Projects",
+  "description": "A versatile Software Developer and Freelance Consultant with deep expertise in Node.js, TypeScript, PostgreSQL, Redis, and Cloud architectures. Building high-performance backend systems, custom web apps, and end-to-end digital solutions for product companies, startups, and private clients.",
   "github": "https://github.com/Raj5222",
-  "resume": "https://drive.google.com/file/d/1N_aXzB_H-cR_9J1Q4K3_X6P0fM-L8kIu/view?usp=sharing",
-  "linkedin": "https://www.linkedin.com/in/raj-sathvara-012025255/",
-  "email": "rajsathvara5222@gmail.com",
-  "phone": "+91 9726210206",
-  "location": "Ahmedabad, Gujarat, India",
+  "resume": "https://drive.google.com/drive/folders/1wwd1c8pnKQDGlLKExXAiBLHZp96GYU6b",
+  "linkedin": "https://www.linkedin.com/in/raj-sathvara",
+  "email": "raj.sathavara122@gmail.com",
+  "phone": "+91-8154005222",
+  "location": "Ahmedabad, India",
   "metrics": [
     {
       "value": "70%",
@@ -26,8 +26,8 @@
       "label": "API Latency Reduction"
     },
     {
-      "value": "60%",
-      "label": "Database Load Relief"
+      "value": "99.9%",
+      "label": "Production Reliability"
     },
     {
       "value": "3×",
@@ -41,6 +41,25 @@
     "Redis",
     "BullMQ",
     "Docker",
-    "GCP"
+    "GCP",
+    "React"
+  ],
+  "services": [
+    {
+      "title": "Full-Stack Web & SaaS Applications",
+      "desc": "End-to-end web apps and SaaS platforms designed, developed, and deployed from concept to production."
+    },
+    {
+      "title": "High-Performance Backend & REST/GraphQL APIs",
+      "desc": "Scalable server architectures, real-time WebSockets, microservices, and secure payment/auth integrations."
+    },
+    {
+      "title": "Database Architecture & Optimization",
+      "desc": "Relational schema design, PostgreSQL partitioning, query optimization, and Redis caching layers."
+    },
+    {
+      "title": "Cloud Infrastructure & DevOps",
+      "desc": "Docker containerization, Google Cloud Platform (GCP) deployments, and automated CI/CD pipelines."
+    }
   ]
 }
