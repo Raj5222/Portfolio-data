@@ -1,28 +1,26 @@
 [
   {
     "id": 5,
-    "title": "Hybrid Expense Tracker Web App",
-    "date": "May 2025 - June 2025",
-    "description": "Hybrid Expense Tracker Web App is a feature-rich, privacy-focused financial management platform that empowers users to take full control of their personal and household finances. It supports real-time synchronization across devices and ensures data privacy through end-to-end encryption.\n\nThe app allows seamless tracking of expenses, savings across multiple accounts, loans, and customizable budgets. Users can visualize financial health through interactive dashboards and analytical charts.\n\nData is encrypted at rest and in transit, with import/export options available in both encrypted and plain formats. Additional features include base currency configuration and downloadable financial reports, making it ideal for global users seeking clarity, security, and control in one application.",
+    "title": "Hybrid Expense Tracker",
+    "date": "May 2025 – Present",
+    "description": "Privacy-first financial tracking platform with real-time multi-device sync, end-to-end secure data handling, and offline resilience — built for performance at scale.\n\nKey Technical Highlights:\n• Real-time multi-device state synchronization powered by Socket.IO & Firebase.\n• Privacy-first architecture with client-side cryptographic hashing and secure financial record isolation.\n• Offline-first capability with IndexedDB hybrid storage and automatic conflict-free background synchronization.\n• Multi-account ledger management, split expenses, recurring billing alerts, and detailed visual budget analytics.",
     "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Screenshot%202025-06-21%20213228.png",
     "images": [
       "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Screenshot%202025-06-21%20213228.png",
       "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Screenshot%202025-06-21%20213521.png",
       "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Screenshot%202025-06-21%20213244.png",
       "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Screenshot%202025-06-21%20213312.png",
-      "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Screenshot%202025-06-21%20213244.png",
       "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Screenshot%202025-06-21%20213301.png",
       "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Screenshot%202025-06-21%20213323.png",
       "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Screenshot%202025-06-21%20213426.png"
     ],
     "tags": [
-      "Node.JS",
-      "TypeScript",
-      "React JS",
-      "Vite.JS",
-      "JavaScript",
-      "Google Auth",
-      "Firebase"
+      "Node.js",
+      "React",
+      "PostgreSQL",
+      "Socket.IO",
+      "Firebase",
+      "TypeScript"
     ],
     "category": "web app",
     "github": "https://github.com/Raj5222/Hybrid-Expense-Tracker-Web-App",
@@ -30,9 +28,9 @@
   },
   {
     "id": 4,
-    "title": "Live Chatting Web-App",
-    "date": "October 2024 - November 2024",
-    "description": "A real-time chat application that enables seamless communication between users in multiple chat rooms. Users can view available rooms, see active members, receive join/leave notifications, and engage in instant messaging.\n\nAdmins can manage users within rooms, including the ability to remove participants. The app ensures a smooth chatting experience with live socket communication and dynamic room updates.\n\n👉 Demo Login — Email: demo@gmail.com | Password: 1234",
+    "title": "Live Chat Application",
+    "date": "Jan 2025 – Feb 2025",
+    "description": "High-throughput real-time chat system with multi-room conversations, live presence indicators, and persistent message history — engineered for concurrent connections at scale.\n\nKey Technical Highlights:\n• Scalable event-driven architecture using Socket.IO with automatic reconnection and heartbeat monitoring.\n• Relational message persistence using PostgreSQL & TypeORM with indexed cursor pagination for rapid historical message retrieval.\n• Real-time presence indicators, typing status, user avatars, and dynamic room channels.\n• End-to-end message delivery acknowledgments with optimistic UI rendering.\n\n👉 Demo Login — Email: demo@gmail.com | Password: 1234",
     "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/chat-App.png",
     "images": [
       "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/chat_app_1.png",
@@ -40,13 +38,12 @@
       "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/chat_app_3.png"
     ],
     "tags": [
-      "Node.JS",
-      "TypeScript",
+      "Node.js",
+      "React",
+      "PostgreSQL",
       "TypeORM",
-      "React JS",
-      "JavaScript",
       "Socket.IO",
-      "Firebase"
+      "TypeScript"
     ],
     "category": "web app",
     "github": [
@@ -73,18 +70,18 @@
   {
     "id": 3,
     "title": "Cloud-Based Image Recognition System",
-    "date": "Jan 2024 - April 2024",
-    "description": "A cloud-powered image recognition system that automatically detects and labels objects within images using machine learning APIs. By leveraging Google Cloud Vision, the system provides fast and accurate identification of various elements from uploaded photos.\n\nIdeal for educational, research, or real-world application needs that involve object detection, classification, and labeling.",
+    "date": "Jan 2024 – April 2024",
+    "description": "Containerized microservice on GCP Cloud Run for rapid object detection and image analysis, with Docker-based horizontal scaling and reproducible deployments.\n\nKey Technical Highlights:\n• Containerized with Docker and deployed to Google Cloud Platform (Cloud Run) for auto-scaling on demand.\n• Automated object detection, label classification, optical character recognition (OCR), and visual landmark identification.\n• Asynchronous batch image processing pipeline built in Python and Node.js with optimized image transformation buffers.\n• Zero-config horizontal scaling with sub-second cold start and reproducible container images.",
     "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Cloud.png",
     "images": [
       "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Cloud.png"
     ],
     "tags": [
+      "Node.js",
       "Python",
-      "Node.JS",
-      "JavaScript",
-      "Google Cloud",
-      "Vision"
+      "GCP Vision API",
+      "Docker",
+      "Google Cloud"
     ],
     "category": "artificial intelligence",
     "github": "https://github.com/Raj5222/Cloud-Base-Detection",
@@ -92,9 +89,9 @@
   },
   {
     "id": 2,
-    "title": "TaskFlow: Smart Task Management & Visualization",
+    "title": "TaskFlow – Smart Task Visualization",
     "date": "March 2025",
-    "description": "TaskFlow is a visually-driven task management web application designed to help individuals and teams organize, track, and visualize tasks efficiently. It integrates Firebase Firestore for real-time task updates and uses React D3 Tree for graph-based visual task hierarchy representation.\n\nUsers can seamlessly manage task dependencies, priorities, and progress in an intuitive interface that blends checklist simplicity with visual clarity.",
+    "description": "Graph-based task management tool with hierarchical dependency visualization and real-time Firestore sync — reducing cognitive overhead in complex project planning.\n\nKey Technical Highlights:\n• Interactive hierarchical dependency graph visualization built with React and D3.js.\n• Real-time cloud state synchronization and live collaborative updates via Firebase Firestore.\n• Intelligent critical-path calculation, blocker identification, and priority matrix filtering.\n• Responsive canvas with pan-zoom controls, hierarchical node collapse/expand, and drag-and-drop hierarchy restructuring.",
     "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/checklist1.png",
     "images": [
       "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/checklist1.png",
@@ -106,9 +103,10 @@
       "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/checklist_to_do_5.png"
     ],
     "tags": [
-      "React JS",
-      "Local Storage",
-      "Firebase"
+      "React",
+      "D3.js",
+      "Firebase Firestore",
+      "TypeScript"
     ],
     "category": "web app",
     "github": "https://github.com/Raj5222/checklist-web-app",
@@ -117,14 +115,14 @@
   {
     "id": 1,
     "title": "Project Management System",
-    "date": "June 2023 - Dec 2023",
-    "description": "A centralized system for managing student project records, enabling faculty to efficiently supervise, organize, and maintain detailed project documentation including source code submissions and evaluation tracking.\n\nThe system provides streamlined workflows for project assignment, review, and categorization, built with a focus on academic supervision and collaboration.",
+    "date": "June 2023 – Dec 2023",
+    "description": "A centralized academic supervision and project administration platform enabling faculty to coordinate, review, and evaluate student engineering projects.\n\nKey Technical Highlights:\n• Multi-role authorization for faculty supervisors, evaluators, and student teams.\n• Automated submission pipelines, milestone tracking, and email notification triggers.\n• Relational and document data modeling for project artifacts, version histories, and grading rubrics.",
     "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Project%20Management%20System.jpg",
     "images": [
       "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Project%20Management%20System.jpg"
     ],
     "tags": [
-      "React JS",
+      "React",
       "MongoDB",
       "PHP",
       "NodeMailer"
@@ -135,8 +133,8 @@
   {
     "id": 0,
     "title": "Vaidyatrix Android App",
-    "date": "Jan 2023 - Mar 2023",
-    "description": "Vaidyatrix is a SaaS-based Android application tailored for BAMS doctors to manage patient records digitally, improve diagnosis accuracy, and reduce paperwork. The app securely stores all medical records and reports on AWS Cloud (S3), ensuring availability and data integrity.\n\nDesigned with healthcare workflow in mind, it simplifies clinical record-keeping and enhances the patient care experience.",
+    "date": "Jan 2023 – Mar 2023",
+    "description": "A specialized healthcare SaaS Android application developed for medical practitioners to streamline clinical records, eliminate paperwork, and safely archive patient histories.\n\nKey Technical Highlights:\n• Native Android UI built with Java and XML adhering to Material Design guidelines.\n• Secure cloud document and medical scan storage integrated with AWS S3.\n• Offline record caching with background synchronization upon network reconnection.",
     "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Image2.png",
     "images": [
       "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Image2.png"

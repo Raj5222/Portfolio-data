@@ -1,0 +1,46 @@
+{
+  "name": "Raj Sathvara",
+  "title": "Software Developer & Backend Engineer",
+  "roles": [
+    "Software Developer",
+    "Full Stack Developer",
+    "Backend Engineer",
+    "Distributed Systems Architect",
+    "Node.js & TypeScript Specialist"
+  ],
+  "tagline": "Available for Full Stack & Backend Roles",
+  "description": "A results-driven Software Developer with deep expertise in Node.js, TypeScript, PostgreSQL, Redis, BullMQ, and cloud infrastructure. Passionate about architecting high-throughput distributed systems, optimizing database query latency, and building scalable production applications.",
+  "github": "https://github.com/Raj5222",
+  "resume": "https://drive.google.com/file/d/1N_aXzB_H-cR_9J1Q4K3_X6P0fM-L8kIu/view?usp=sharing",
+  "linkedin": "https://www.linkedin.com/in/raj-sathvara-012025255/",
+  "email": "rajsathvara5222@gmail.com",
+  "phone": "+91 9726210206",
+  "location": "Ahmedabad, Gujarat, India",
+  "metrics": [
+    {
+      "value": "70%",
+      "label": "Query Speedup"
+    },
+    {
+      "value": "40%",
+      "label": "API Latency Reduction"
+    },
+    {
+      "value": "60%",
+      "label": "Database Load Relief"
+    },
+    {
+      "value": "3×",
+      "label": "Job Processing Throughput"
+    }
+  ],
+  "topTech": [
+    "Node.js",
+    "TypeScript",
+    "PostgreSQL",
+    "Redis",
+    "BullMQ",
+    "Docker",
+    "GCP"
+  ]
+}

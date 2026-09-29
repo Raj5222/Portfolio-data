@@ -1,150 +1,162 @@
 [
-   {
-      "title":"Frontend",
-      "skills":[
-         {
-            "name":"React Js",
-            "image":"https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/react.svg"
-         },
-         {
-            "name":"Vite Js",
-            "image":"https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/Vitejs.svg"
-         },
-         {
-            "name":"Redux",
-            "image":"https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/redux.svg"
-         },
-         {
-            "name":"HTML",
-            "image":"https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/html.png"
-         },
-         {
-            "name":"JavaScript",
-            "image":"https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/javascript.webp"
-         },
-         {
-            "name":"CSS",
-            "image":"https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/css.webp"
-         },
-         {
-            "name":"Bootstrap",
-            "image":"https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/bootstrap.png"
-         },
-         {
-            "name":"Material UI",
-            "image":"https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/Material-UI.png"
-         },
-         {
-            "name":"HandleBars",
-            "image":"https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/handlebars.png"
-         }
-      ]
-   },
-   {
-      "title":"Backend",
-      "skills":[
-         {
-            "name":"Python",
-            "image":"https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/python.svg"
-         },
-         {
-            "name":"Node Js",
-            "image":"https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/nodejs.svg"
-         },
-         {
-            "name":"TypeScript",
-            "image":"https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/Typescript.svg"
-         },
-         {
-            "name":"Express Js",
-            "image":"https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/expressjs.png"
-         },
-         {
-            "name":"GraphQL",
-            "image":"https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/graphQL.svg"
-         },
-         {
-            "name":"TypeORM",
-            "image":"https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/typeorm.png"
-         },
-         {
-            "name":"Redis",
-            "image":"https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/Redis.png"
-         },
-         {
-            "name":"BullMQ",
-            "image":"https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/BullMQ.png"
-         },
-         {
-            "name":"PostgreSQL",
-            "image":"https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/postgresql.png"
-         },
-         {
-            "name":"MySQL",
-            "image":"https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/mysql.svg"
-         },
-         {
-            "name":"MongoDB",
-            "image":"https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/mongodb.svg"
-         }
-      ]
-   },
-   {
-      "title":"Android",
-      "skills":[
-         {
-            "name":"XML",
-            "image":"https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/xml.png"
-         },
-         {
-            "name":"Java",
-            "image":"https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/java.svg"
-         },
-         {
-            "name":"Android Studio",
-            "image":"https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/androidstd.png"
-         }
-      ]
-   },
-   {
-      "title":"Others",
-      "skills":[
-         {
-            "name":"Linux",
-            "image":"https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/Linux-logo.svg"
-         },
-         {
-            "name":"DSA",
-            "image":"https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/dsa.png"
-         },
-         {
-            "name":"System Design",
-            "image":"https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/system-desing.png"
-         },
-         {
-            "name":"Docker",
-            "image":"https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/Docker.png"
-         },
-         {
-            "name":"Git",
-            "image":"https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/git.png"
-         },
-         {
-            "name":"GitHub",
-            "image":"https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/github.png"
-         },
-         {
-            "name":"Google Cloud",
-            "image":"https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/Google-cloud.svg"
-         },
-         {
-            "name":"Firebase",
-            "image":"https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/Firebase.png"
-         },
-         {
-            "name":"Socket Io",
-            "image":"https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/Socket-io.svg"
-         }
-      ]
-   }
+  {
+    "title": "Backend & Systems",
+    "skills": [
+      {
+        "name": "Node.js",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/nodejs.svg"
+      },
+      {
+        "name": "TypeScript",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/Typescript.svg"
+      },
+      {
+        "name": "Express.js",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/expressjs.png"
+      },
+      {
+        "name": "GraphQL",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/graphQL.svg"
+      },
+      {
+        "name": "REST APIs",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/expressjs.png"
+      },
+      {
+        "name": "Socket.IO",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/Socket-io.svg"
+      },
+      {
+        "name": "BullMQ",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/BullMQ.png"
+      },
+      {
+        "name": "RabbitMQ",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/BullMQ.png"
+      },
+      {
+        "name": "Microservices",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/system-desing.png"
+      },
+      {
+        "name": "JWT",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/dsa.png"
+      },
+      {
+        "name": "Python",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/python.svg"
+      }
+    ]
+  },
+  {
+    "title": "Databases & ORMs",
+    "skills": [
+      {
+        "name": "PostgreSQL",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/postgresql.png"
+      },
+      {
+        "name": "Redis",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/Redis.png"
+      },
+      {
+        "name": "TypeORM",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/typeorm.png"
+      },
+      {
+        "name": "Prisma",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/typeorm.png"
+      },
+      {
+        "name": "MongoDB",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/mongodb.svg"
+      },
+      {
+        "name": "MySQL",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/mysql.svg"
+      },
+      {
+        "name": "Firebase Firestore",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/Firebase.png"
+      }
+    ]
+  },
+  {
+    "title": "Cloud & DevOps",
+    "skills": [
+      {
+        "name": "Google Cloud",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/Google-cloud.svg"
+      },
+      {
+        "name": "Docker",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/Docker.png"
+      },
+      {
+        "name": "AWS S3",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/Google-cloud.svg"
+      },
+      {
+        "name": "Firebase",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/Firebase.png"
+      },
+      {
+        "name": "Git",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/git.png"
+      },
+      {
+        "name": "GitHub",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/github.png"
+      },
+      {
+        "name": "Linux",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/Linux-logo.svg"
+      },
+      {
+        "name": "System Design",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/system-desing.png"
+      }
+    ]
+  },
+  {
+    "title": "Frontend",
+    "skills": [
+      {
+        "name": "React.js",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/react.svg"
+      },
+      {
+        "name": "Vite",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/Vitejs.svg"
+      },
+      {
+        "name": "Material UI",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/Material-UI.png"
+      },
+      {
+        "name": "Handlebars.js",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/handlebars.png"
+      },
+      {
+        "name": "D3.js",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/dsa.png"
+      },
+      {
+        "name": "JavaScript",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/javascript.webp"
+      },
+      {
+        "name": "HTML5",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/html.png"
+      },
+      {
+        "name": "CSS3",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/css.webp"
+      },
+      {
+        "name": "Bootstrap",
+        "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/bootstrap.png"
+      }
+    ]
+  }
 ]

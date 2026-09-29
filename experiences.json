@@ -2,52 +2,73 @@
   {
     "id": 0,
     "img": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/terotem.png",
-    "role": "Backend Developer",
+    "role": "Software Developer",
     "company": "TeroTAM Techlabs Pvt. Ltd.",
     "date": "Aug 2024 – Present",
-    "desc": "Currently working as a Backend Developer, focusing on building scalable, high-performance APIs using Node.js, Express.js, and TypeScript. Improved data handling through TypeORM while integrating both MongoDB and PostgreSQL. Implemented Redis caching to optimize application speed and reduce load times.",
+    "desc": "Redesigned dynamic JSON structures into a normalized many-to-many relational schema — cutting query complexity by 30% and boosting filtering performance by 70%. Reduced API response time by 40% and database load by 60% by designing Redis-based distributed caching. Built async job pipelines with BullMQ, increasing background processing throughput by 3×.",
+    "bullets": [
+      "Redesigned dynamic JSON structures into a normalized many-to-many relational schema — cutting query complexity by 30% and boosting filtering performance by 70%.",
+      "Reduced API response time by 40% and database load by 60% by designing Redis-based distributed caching for high-traffic endpoints.",
+      "Built async job pipelines with BullMQ, increasing background processing throughput by 3× and eliminating processing bottlenecks.",
+      "Implemented customer-based PostgreSQL table partitioning, improving query efficiency under high-volume production loads.",
+      "Integrated Socket.IO for real-time push notifications and event-driven communication across distributed microservices.",
+      "Led schema migrations, query tuning, and code reviews — driving architectural improvements that reduced tech debt and improved team velocity."
+    ],
     "skills": [
       "Node.js",
-      "Express.js",
-      "JavaScript",
       "TypeScript",
-      "TypeORM",
-      "MongoDB",
       "PostgreSQL",
       "Redis",
-      "BullMQ"
+      "BullMQ",
+      "Socket.IO",
+      "TypeORM",
+      "Express.js",
+      "Microservices"
     ],
     "doc": "",
     "roles": [
       {
         "role": "Software Developer",
         "date": "Feb 2025 – Present",
-        "desc": "Currently working as a Software Developer, focusing on building scalable, high-performance APIs using Node.js, Express.js, and TypeScript. Improved data handling through TypeORM while integrating both MongoDB and PostgreSQL. Implemented Redis caching to optimize application speed and reduce load times.",
+        "desc": "Redesigned dynamic JSON structures into a normalized many-to-many relational schema — cutting query complexity by 30% and boosting filtering performance by 70%. Reduced API response time by 40% and database load by 60% by designing Redis-based distributed caching. Built async job pipelines with BullMQ, increasing background processing throughput by 3×.",
+        "bullets": [
+          "Redesigned dynamic JSON structures into a normalized many-to-many relational schema — cutting query complexity by 30% and boosting filtering performance by 70%.",
+          "Reduced API response time by 40% and database load by 60% by designing Redis-based distributed caching for high-traffic endpoints.",
+          "Built async job pipelines with BullMQ, increasing background processing throughput by 3× and eliminating processing bottlenecks.",
+          "Implemented customer-based PostgreSQL table partitioning, improving query efficiency under high-volume production loads.",
+          "Integrated Socket.IO for real-time push notifications and event-driven communication across distributed microservices.",
+          "Led schema migrations, query tuning, and code reviews — driving architectural improvements that reduced tech debt and improved team velocity."
+        ],
         "skills": [
           "Node.js",
-          "Express.js",
-          "JavaScript",
           "TypeScript",
-          "TypeORM",
-          "MongoDB",
           "PostgreSQL",
           "Redis",
-          "BullMQ"
+          "BullMQ",
+          "Socket.IO",
+          "TypeORM",
+          "Express.js",
+          "Microservices"
         ]
       },
       {
         "role": "Backend Developer Intern",
         "date": "Aug 2024 – Feb 2025",
-        "desc": "Worked as a Backend Developer Intern, contributing to API development and server-side logic using Node.js, Express.js, and TypeScript. Managed databases through TypeORM with MongoDB and PostgreSQL. Also contributed to server-side rendering of dynamic content using Handlebars.",
+        "desc": "Built RESTful APIs and core business logic in Node.js & TypeScript on a live production codebase, shipping features independently from week one. Designed and queried relational and document data models across PostgreSQL and MongoDB using TypeORM with optimal schema design.",
+        "bullets": [
+          "Built RESTful APIs and core business logic in Node.js & TypeScript on a live production codebase, shipping features independently from week one.",
+          "Designed and queried relational and document data models across PostgreSQL and MongoDB using TypeORM with optimal schema design.",
+          "Diagnosed and resolved critical performance bottlenecks, improving endpoint latency across key workflows.",
+          "Authored technical documentation and participated in structured code reviews, upholding engineering standards."
+        ],
         "skills": [
           "Node.js",
-          "Express.js",
-          "JavaScript",
           "TypeScript",
+          "Express.js",
           "TypeORM",
-          "Handlebars",
+          "PostgreSQL",
           "MongoDB",
-          "PostgreSQL"
+          "Handlebars.js"
         ]
       }
     ]
