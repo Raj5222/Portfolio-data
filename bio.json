@@ -46,20 +46,32 @@
   ],
   "services": [
     {
+      "id": "fullstack",
       "title": "Full-Stack Web & SaaS Applications",
-      "desc": "End-to-end web apps and SaaS platforms designed, developed, and deployed from concept to production."
+      "desc": "End-to-end web apps, admin dashboards, and SaaS platforms engineered for high performance, responsive UX, and scalable client requirements.",
+      "badge": "Concept to Launch",
+      "tags": ["React & TypeScript", "SaaS Architecture", "Stripe & Auth", "Responsive Design"]
     },
     {
-      "title": "High-Performance Backend & REST/GraphQL APIs",
-      "desc": "Scalable server architectures, real-time WebSockets, microservices, and secure payment/auth integrations."
+      "id": "backend",
+      "title": "High-Throughput Backend & APIs",
+      "desc": "Fault-tolerant REST & GraphQL APIs, real-time WebSocket communication with Socket.IO, and distributed BullMQ asynchronous job pipelines.",
+      "badge": "Scalable & Real-Time",
+      "tags": ["Node.js & Express", "Socket.IO", "BullMQ & Redis", "Microservices"]
     },
     {
+      "id": "database",
       "title": "Database Architecture & Optimization",
-      "desc": "Relational schema design, PostgreSQL partitioning, query optimization, and Redis caching layers."
+      "desc": "Relational data modeling, table partitioning, Redis caching layers, query optimization, and schema migrations that dramatically reduce latency.",
+      "badge": "70% Faster Queries",
+      "tags": ["PostgreSQL", "Redis Caching", "TypeORM & Prisma", "Query Tuning"]
     },
     {
-      "title": "Cloud Infrastructure & DevOps",
-      "desc": "Docker containerization, Google Cloud Platform (GCP) deployments, and automated CI/CD pipelines."
+      "id": "cloud",
+      "title": "Cloud Deployments & DevOps",
+      "desc": "Containerized application workflows with Docker, Google Cloud Platform (Cloud Run) configurations, CI/CD pipelines, and zero-downtime releases.",
+      "badge": "Production Ready",
+      "tags": ["Docker", "Google Cloud (GCP)", "CI/CD Workflows", "Reliability"]
     }
   ]
 }
