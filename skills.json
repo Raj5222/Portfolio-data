@@ -1,6 +1,7 @@
 [
   {
     "title": "Backend & Systems",
+    "subtitle": "Microservices, distributed architectures & async processing",
     "skills": [
       {
         "name": "Node.js",
@@ -39,7 +40,7 @@
         "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/system-desing.png"
       },
       {
-        "name": "JWT",
+        "name": "JWT Auth",
         "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/dsa.png"
       },
       {
@@ -50,6 +51,7 @@
   },
   {
     "title": "Databases & ORMs",
+    "subtitle": "Relational schemas, Redis caching & query optimization",
     "skills": [
       {
         "name": "PostgreSQL",
@@ -83,9 +85,10 @@
   },
   {
     "title": "Cloud & DevOps",
+    "subtitle": "GCP infrastructure, Docker containerization & CI/CD",
     "skills": [
       {
-        "name": "Google Cloud",
+        "name": "Google Cloud (GCP)",
         "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/Google-cloud.svg"
       },
       {
@@ -120,6 +123,7 @@
   },
   {
     "title": "Frontend",
+    "subtitle": "Modern React applications, UI libraries & state management",
     "skills": [
       {
         "name": "React.js",
@@ -142,7 +146,7 @@
         "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/dsa.png"
       },
       {
-        "name": "JavaScript",
+        "name": "JavaScript (ES6+)",
         "image": "https://raw.githubusercontent.com/Raj5222/Project-Management-System/main/Temp/Icon/javascript.webp"
       },
       {
